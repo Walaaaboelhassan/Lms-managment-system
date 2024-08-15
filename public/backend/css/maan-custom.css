@@ -1,0 +1,20 @@
+
+
+.maantable thead th,.maantable td{
+    vertical-align: middle;
+}
+.maanaction{
+    width: 10%;
+}
+#maanaction-in{
+    padding-left: 35%;
+    text-align: center;
+}
+#maanaction-in a{
+    padding-right: 3px;
+}
+.archiveItem a{
+    padding-left: 3px;
+}
+
+
